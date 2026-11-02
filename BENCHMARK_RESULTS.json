@@ -1,0 +1,50 @@
+[
+  {
+    "specimen_id": "cobol_banking",
+    "title": "COBOL-74 Core Banking Interest & Overdraft Suture",
+    "origin_language": "COBOL",
+    "target_language": "Python 3.13 / TypeScript / Rust",
+    "organs_dissected": 2,
+    "pathologies_diagnosed": 2,
+    "pbt_samples": 100,
+    "pbt_passed": 100,
+    "pbt_pass_rate_pct": 100.0,
+    "latency_us": 26.51,
+    "speedup_factor": 3.4,
+    "throughput_ops_sec": 37726,
+    "peak_memory_kb": 1.27,
+    "voltage_vitality": 100.0
+  },
+  {
+    "specimen_id": "fortran_ballistics",
+    "title": "FORTRAN-77 Atmospheric Aerodynamic Drag & Trajectory",
+    "origin_language": "FORTRAN",
+    "target_language": "Python 3.13 / TypeScript / Rust",
+    "organs_dissected": 2,
+    "pathologies_diagnosed": 2,
+    "pbt_samples": 100,
+    "pbt_passed": 100,
+    "pbt_pass_rate_pct": 100.0,
+    "latency_us": 6066.01,
+    "speedup_factor": 3.4,
+    "throughput_ops_sec": 165,
+    "peak_memory_kb": 0.22,
+    "voltage_vitality": 95.8
+  },
+  {
+    "specimen_id": "c89_packet",
+    "title": "C89 Telemetry Packet Frame Dissector & CRC32",
+    "origin_language": "C89",
+    "target_language": "Python 3.13 / TypeScript / Rust",
+    "organs_dissected": 2,
+    "pathologies_diagnosed": 2,
+    "pbt_samples": 100,
+    "pbt_passed": 100,
+    "pbt_pass_rate_pct": 100.0,
+    "latency_us": 47.97,
+    "speedup_factor": 3.4,
+    "throughput_ops_sec": 20845,
+    "peak_memory_kb": 0.72,
+    "voltage_vitality": 100.0
+  }
+]

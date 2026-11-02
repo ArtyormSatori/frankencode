@@ -9,9 +9,9 @@
     "pbt_samples": 100,
     "pbt_passed": 100,
     "pbt_pass_rate_pct": 100.0,
-    "latency_us": 26.51,
+    "latency_us": 26.66,
     "speedup_factor": 3.4,
-    "throughput_ops_sec": 37726,
+    "throughput_ops_sec": 37511,
     "peak_memory_kb": 1.27,
     "voltage_vitality": 100.0
   },
@@ -25,11 +25,11 @@
     "pbt_samples": 100,
     "pbt_passed": 100,
     "pbt_pass_rate_pct": 100.0,
-    "latency_us": 6066.01,
+    "latency_us": 5875.59,
     "speedup_factor": 3.4,
-    "throughput_ops_sec": 165,
+    "throughput_ops_sec": 170,
     "peak_memory_kb": 0.22,
-    "voltage_vitality": 95.8
+    "voltage_vitality": 95.9
   },
   {
     "specimen_id": "c89_packet",
@@ -41,9 +41,9 @@
     "pbt_samples": 100,
     "pbt_passed": 100,
     "pbt_pass_rate_pct": 100.0,
-    "latency_us": 47.97,
+    "latency_us": 73.25,
     "speedup_factor": 3.4,
-    "throughput_ops_sec": 20845,
+    "throughput_ops_sec": 13652,
     "peak_memory_kb": 0.72,
     "voltage_vitality": 100.0
   }

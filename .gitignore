@@ -18,3 +18,8 @@ htmlcov/
 # Environment secrets
 .env
 *.local
+
+# Kiroween Hackathon Rule: NEVER ignore .kiro directory
+!.kiro/
+!.kiro/**
+
